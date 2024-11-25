@@ -47,6 +47,16 @@ const data = [
       {
         id: 6,
         label: 'Level two 2-2',
+         children: [
+          {
+            id: 5,
+            label: 'Level two 2-1',
+          },
+          {
+            id: 6,
+            label: 'Level two 2-2',
+          },
+        ],
       },
     ],
   },
